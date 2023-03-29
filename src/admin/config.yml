@@ -19,4 +19,4 @@ collections:
     - {label: "Tags", name: "tags", widget: "list", default: ["post"] }
     - {label: "Featured Image", name: "image", widget: "image"}
     - {label: "Image caption", name: "imageAlt", widget: "string"}
-    - {label: "Body", name: "body", widget: "mardown"}
+    - {label: "Body", name: "body", widget: "markdown"}
